@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="city_hint">Wpisz miasto</string>
+    <string name="celcius_sign">\u2103</string>
+    <string name="Fahrenheit_sign">\u2109</string>
+    <string name="nothing">-</string>
+    <string name="questionMark">\?</string>
+</resources>
